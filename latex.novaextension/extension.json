@@ -4,5 +4,6 @@
     "organization": "MyOrganization",
     "description": "Lorem ipsum, dolor sit amet.",
     "version": "1.0",
-    "categories": []
+    "categories": [],
+    "main": "main.js"
 }

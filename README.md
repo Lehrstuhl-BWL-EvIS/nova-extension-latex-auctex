@@ -28,3 +28,7 @@ https://github.com/mava/nova-latex
 https://github.com/flyx/Nova-TeX-Suite
 
 Additionally, [TeXlab](https://github.com/latex-lsp/texlab) provides a cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system including code completion. 
+
+## Installation
+
+The TypeScript files can be transpiled to JavaScript with `npm run build`.
