@@ -51,11 +51,21 @@ Then, of course, AucTeX : https://www.gnu.org/software/auctex/
 - LaTeX text editing, i.e., editing (non-trivial) LaTeX documents
 - General text editing ergonomics, see, e.g.,
   - Apple Human Interface Guidelines : https://developer.apple.com/design/human-interface-guidelines
+  - especially: https://developer.apple.com/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts
   - alternative keyboard layouts, e.g., Dvorak, Maltron, Colemak, Neo, [adnw](http://www.adnw.de)
 - Research on user interface ergonomics in general and user input / keyboard / mouse ergonomics in particular
 - Research on editing large text documents
 - Research on editing large LaTeX documents
 - Research on writer productivity
+
+As explained on https://developer.apple.com/design/human-interface-guidelines/keyboards#Standard-keyboard-shortcuts:
+
+> Best practices
+> 
+> Support keyboard-only interaction where possible. As the name suggests, full keyboard-access mode lets people navigate and activate windows, menus, controls, and system features using only the keyboard.
+
+Also interesting: [Navigate your Mac using Full Keyboard Access](https://support.apple.com/en-gb/guide/mac-help/mchlc06d1059/mac)
+
 
 ## Installation
 
